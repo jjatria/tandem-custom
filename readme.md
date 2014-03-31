@@ -27,7 +27,11 @@ The rest of the functions in this bundle are there as helper functions for
 these main three. Please refer to their documentation for instructions on how
 to use them.
 
+A script to convert Praat TextGrid files to Audacity labels (which
+TandemSTRAIGHT uses) is available in my [Praat plugin repository][2].
+
 Please send observations and comments to José Joaquín Atria at
 jjatria@gmail.com
 
 [1]: http://www.wakayama-u.ac.jp/~kawahara/STRAIGHTadv/index_e.html
+[2]: https://github.com/jjatria/plugin_jjatools
